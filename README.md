@@ -1,4 +1,4 @@
-# TELECOM-CHURN
+# Customer Churn Prediction for Telecom Industry
 This project focuses on predicting churn among high-value prepaid telecom customers in India and Southeast Asia by leveraging customer-level data. The goal is to identify customers at high risk of churning and understand the key factors contributing to churn, enabling telecom companies to implement effective retention strategies.
 
 Key steps in this project include:
